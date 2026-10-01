@@ -204,6 +204,14 @@ The project uses `.gitignore` to exclude sensitive and generated files.
 
 ---
 
+## Deployment
+
+The ClaimFast backend is deployed on Render.
+
+**Live API:** https://claimfast-insurance.onrender.com
+
+---
+
 ## Project Note
 
 The payout system uses a mock bank transfer because a real banking API is outside the scope of the student project.
